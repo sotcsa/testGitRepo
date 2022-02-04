@@ -1,2 +1,11 @@
 all:
-	echo4 "SUCCESS3" 
+	echo "all" 
+
+build:
+	echo "build"
+
+regression-windows:
+	echo "regression-windows"
+
+regression-linux:
+	echo "regression-linux"
