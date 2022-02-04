@@ -1,3 +1,3 @@
 
 all:
-	echo "SUCCESS"
+	echo2 "SUCCESS" 
