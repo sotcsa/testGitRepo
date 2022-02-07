@@ -5,7 +5,7 @@ build:
 	echo "build"
 
 regression-windows:
-	echo "regression-windows"
+	echo2 "regression-windows"
 
 regression-linux:
 	echo "regression-linux"
