@@ -2,7 +2,7 @@ all:
 	echo "all" 
 
 build:
-	echo4 "build"
+	echo "build"
 
 regression-windows:
 	echo "regression-windows"
